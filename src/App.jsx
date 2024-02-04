@@ -20,9 +20,6 @@ const App = () => {
           path="/"
           element={
             <div className="flex-1 m-5 flex-column">
-              <div className="flex items-center justify-center">
-                <img src="toolbox.png" alt="Logo" className="w-20" />
-              </div>
               <h1 className="text-2xl font-bold flex items-center justify-center">
                 Welcome to Lil Tools!
               </h1>
