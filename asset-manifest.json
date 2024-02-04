@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lil-tools/static/css/main.55187f54.css",
-    "main.js": "/lil-tools/static/js/main.ba738234.js",
+    "main.js": "/lil-tools/static/js/main.7d6b2b79.js",
     "static/js/496.bffce7c9.chunk.js": "/lil-tools/static/js/496.bffce7c9.chunk.js",
     "index.html": "/lil-tools/index.html",
     "main.55187f54.css.map": "/lil-tools/static/css/main.55187f54.css.map",
-    "main.ba738234.js.map": "/lil-tools/static/js/main.ba738234.js.map",
+    "main.7d6b2b79.js.map": "/lil-tools/static/js/main.7d6b2b79.js.map",
     "496.bffce7c9.chunk.js.map": "/lil-tools/static/js/496.bffce7c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55187f54.css",
-    "static/js/main.ba738234.js"
+    "static/js/main.7d6b2b79.js"
   ]
 }
