@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.4746eb00.css",
-    "main.js": "./static/js/main.017c5b3a.js",
-    "static/js/496.bffce7c9.chunk.js": "./static/js/496.bffce7c9.chunk.js",
-    "index.html": "./index.html",
-    "main.4746eb00.css.map": "./static/css/main.4746eb00.css.map",
-    "main.017c5b3a.js.map": "./static/js/main.017c5b3a.js.map",
-    "496.bffce7c9.chunk.js.map": "./static/js/496.bffce7c9.chunk.js.map"
+    "main.css": "/lil-tools/static/css/main.4746eb00.css",
+    "main.js": "/lil-tools/static/js/main.dc23fbea.js",
+    "static/js/496.bffce7c9.chunk.js": "/lil-tools/static/js/496.bffce7c9.chunk.js",
+    "index.html": "/lil-tools/index.html",
+    "main.4746eb00.css.map": "/lil-tools/static/css/main.4746eb00.css.map",
+    "main.dc23fbea.js.map": "/lil-tools/static/js/main.dc23fbea.js.map",
+    "496.bffce7c9.chunk.js.map": "/lil-tools/static/js/496.bffce7c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4746eb00.css",
-    "static/js/main.017c5b3a.js"
+    "static/js/main.dc23fbea.js"
   ]
 }
