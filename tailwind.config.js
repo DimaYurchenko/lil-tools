@@ -2,6 +2,14 @@ module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   plugins: [require("daisyui")],
   daisyui: {
-    themes: ["light", "dark", "dracula"],
+    themes: [
+      "light",
+      "dark",
+      "dracula",
+      "synthwave",
+      "aqua",
+      "retro",
+      "garden",
+    ],
   },
 };
