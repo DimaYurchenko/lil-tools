@@ -16,6 +16,7 @@ const App = () => {
       <NavBar />
       <Routes>
         <Route
+          exact
           path="/"
           element={
             <div className="flex-1 m-5 flex-column">
